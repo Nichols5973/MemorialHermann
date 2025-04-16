@@ -378,8 +378,8 @@ header .section.nav-tools .default-content-wrapper a {
 }
 
 header .section.nav-tools .default-content-wrapper .button-container:nth-child(2) a {
-	background: #0071bc;
-	color: #fff !important;
+	background: #ffcd55;
+	color: #121212 !important;
 }
 
 header .section.nav-tools .default-content-wrapper .button-container:nth-child(2) a:hover {
