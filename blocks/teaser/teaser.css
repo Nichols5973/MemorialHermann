@@ -1,8 +1,8 @@
 .teaser.block > div:last-child {
   border-radius: 20px;
-  color: #fff;
+  color: #121212;
   padding: 1.5rem;
-  background-color: #0071bc;
+  background-color: #ffcd55;
   max-width: 100%;
 }
 
